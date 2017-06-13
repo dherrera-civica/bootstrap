@@ -1,0 +1,52 @@
+.columna_uno{
+    background: rebeccapurple;
+    text-align: center;
+    color: white;
+}
+
+.columna_dos{
+    background: red;
+    text-align: center;
+    color: white;
+
+}
+
+.columna_tres{
+    background: green;
+    text-align: center;
+    color: white;
+
+}
+
+.columna_uno_uno{
+    background: blue;
+    text-align: center;
+    color: white;
+
+}
+
+.columna_uno_dos{
+    background: yellow;
+    text-align: center;
+    color: white;
+
+}
+
+.otra_columna_uno{
+    background: purple;
+    text-align: center;
+    color: white;
+
+}
+.otra_columna_dos{
+    background: gray;
+    text-align: center;
+    color: white;
+}
+
+
+.otra_columna_tres{
+    background:black;
+    text-align: center;
+    color: white;
+}
